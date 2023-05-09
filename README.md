@@ -17,4 +17,6 @@ select an artwork and its data to display whenever the button is clicked. I chos
 its image, and excluded the rest of the objects' metedata (but of course not every artwork has all of this data available). Lastly, I simply embedded the random 
 generator code into this Google site!
 
+The website can be found at: https://sites.google.com/pratt.edu/met-cat-art/home
+
 Enjoy!!
